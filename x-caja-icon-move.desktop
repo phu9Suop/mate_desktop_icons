@@ -1,0 +1,12 @@
+[Desktop Entry]
+
+Categories=Desktop; MATE;Bugfix;CAJA;
+Type=Application
+Exec=/bin/bash /usr/local/bin/x-caja-icon-move.bash
+X-MATE-Autostart-enabled=true
+Name=Move Icons
+Comment=Move Icons to other window
+X-MATE-Autostart-Delay=15
+Comment=needs 2 displays on one Xserver
+Name[de_DE]=Icons verschieben
+Comment[de_DE]=Icons verschieben
